@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "\r\nConverted using O2N",
+        "description" : "\r\nConverted using O2N-snk",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "aby3D7eXJ0klptS9ODgE05",
-    "name" : "navs_windows_vm",
+    "id" : "a97sDzUiYXcfGEIv78pWE4",
+    "name" : "navs",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C8YR25000000000002"
+        "repoHandle" : "01C8YR25000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
