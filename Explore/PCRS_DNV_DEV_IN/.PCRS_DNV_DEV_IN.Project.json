@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "hfpprCUj4w3jemK3TPugE8",
+    "name" : "PCRS_DNV_DEV_IN",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Migrated project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
