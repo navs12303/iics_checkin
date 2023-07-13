@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "log_file",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
