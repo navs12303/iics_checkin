@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "9AgP4wbZVObd0kg11APJY5",
+    "name" : "nk+test",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-19T05:51:45.926Z",
+  "objectRefs" : [ ]
+}
