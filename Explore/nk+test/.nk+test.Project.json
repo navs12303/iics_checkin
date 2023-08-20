@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "9AgP4wbZVObd0kg11APJY5",
-    "name" : "nk!test",
+    "name" : "nk+test",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -18,6 +18,6 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-08-20T04:41:25.962Z",
+  "updateTime" : "2023-08-20T04:43:39.019Z",
   "objectRefs" : [ ]
 }
