@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "8CWGfZKxyQgkxjL6xaf6QH",
+    "name" : "m_04621797",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01C8YR17000000000060"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-02-22T16:52:30.584Z",
+  "objectRefs" : [ ]
+}
