@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Testing",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-02-23T09:50:16.151Z",
+  "updateTime" : "2024-02-23T10:26:08.123Z",
   "objectRefs" : [ ]
 }
